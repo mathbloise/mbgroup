@@ -13,9 +13,9 @@ database name: mbgroup, user: root, password: 123.
 * Instalar o Composer (para o gerenciamento de dependências do PHP)
 * Inicializar o Servidor Apache
 
-### Migration
+## Migration
 
-## Execute o Artisan command:
+### Execute o Artisan command:
 
 * php artisan migrate
 * php artisan serve (para subir o app)
@@ -24,7 +24,7 @@ database name: mbgroup, user: root, password: 123.
 ### CONSTRAINT UNIQUE KEY
 
 Criei as constraint para evitar complexidade, desta forma garanto validação, pois cada column id, nome e cpf
-não pode ter mais de um registro com o mesmo dado, 
+não pode ter mais de um registro com o mesmo dado.
 
 ## Author
 
