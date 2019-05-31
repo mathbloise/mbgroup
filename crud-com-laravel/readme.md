@@ -8,7 +8,7 @@ Clone o projeto em seu ambiente development.
 
 ### Prerequisites
 
-Execute o comando Sql em um banco de teste database name mbgroup, user: root, password: 123.
+database name: mbgroup, user: root, password: 123.
 
 * Instalar o Composer (para o gerenciamento de dependências do PHP)
 * Inicializar o Servidor Apache
